@@ -1,1 +1,1 @@
-# Print-the-Elements-of-a-Linked-List-ds
+# Print-the-Elements-of-a-Linked-List-ds This program builds a singly linked list by inserting nodes at the **tail** and then prints each node’s value in order. It reads integers from input, creates the list, and uses `printLinkedList` to traverse and display the data line by line.
